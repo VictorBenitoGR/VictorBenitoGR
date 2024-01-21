@@ -1,6 +1,6 @@
 # Victor Benito
 
-**`Data Science Developer`** **`Open Source enthusiast`**
+**`Business Intelligence`** **`Data Science`** **`Open Source`**
 
 Proficient in **R** and **Python** programming, with hands-on experience in analyzing and visualizing complex databases. Adept at translating data insights into strategic business solutions, with a particular interest in applying machine learning models to enhance analytical capabilities. My hobbies are the maintenance and translation of Wikipedia articles and chess puzzles.
 
@@ -11,6 +11,8 @@ Proficient in **R** and **Python** programming, with hands-on experience in anal
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
