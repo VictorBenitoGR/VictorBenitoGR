@@ -2,7 +2,7 @@
 
 **`Data Science Developer`** **`Open Source enthusiast`**
 
-I'm passionate about understanding problems, systematizing processes and illustrating solutions through mathematics, programming and business structures. My hobbies are the maintenance and translation of Wikipedia articles and chess. I'm part of the 7th generation of "Lideres del Mañana", a 100% scholarship to study at Tec de Monterrey.
+Proficient in **R** and **Python** programming, with hands-on experience in analyzing and visualizing complex databases. Adept at translating data insights into strategic business solutions, with a particular interest in applying machine learning models to enhance analytical capabilities. My hobbies are the maintenance and translation of Wikipedia articles and chess puzzles.
 
 ---
 
